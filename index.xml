@@ -5,12 +5,21 @@
     <link>https://blondon.github.io/</link>
       <atom:link href="https://blondon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ben London</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2019 00:00:00 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2020 12:59:45 -0800</lastBuildDate>
     <image>
       <url>https://blondon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ben London</title>
       <link>https://blondon.github.io/</link>
     </image>
+    
+    <item>
+      <title>ICML &amp; IJCAI 2020 </title>
+      <link>https://blondon.github.io/post/icml_ijcai_2020/</link>
+      <pubDate>Fri, 17 Jan 2020 12:59:45 -0800</pubDate>
+      <guid>https://blondon.github.io/post/icml_ijcai_2020/</guid>
+      <description>&lt;p&gt;I will be area chair for &lt;a href=&#34;https://icml.cc/Conferences/2020&#34;&gt;ICML 2020&lt;/a&gt; and a Sr. PC member for &lt;a href=&#34;https://ijcai20.org/&#34;&gt;IJCAI 2020&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NeurIPS Workshop: ML with Guarantees</title>
