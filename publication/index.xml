@@ -5,12 +5,28 @@
     <link>https://blondon.github.io/publication/</link>
       <atom:link href="https://blondon.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blondon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://blondon.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Offline Policy Evaluation with New Arms</title>
+      <link>https://blondon.github.io/publication/london-offlinerl20/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/publication/london-offlinerl20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PAC-Identifiability in Federated Learning</title>
+      <link>https://blondon.github.io/publication/london-spicyfl20/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/publication/london-spicyfl20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian Counterfactual Risk Minimization</title>
