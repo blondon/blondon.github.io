@@ -2,53 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blondon.github.io/publication_types/9/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/alexander-buchholz/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/ben-london/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/publication/london-reveal22/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/giuseppe-benedetto/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/publication/buchholz-consequences22/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/post/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/publication_types/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/publication/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/thorsten-joachims/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/post/consequences_reveal_22/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/publication/london-arxiv22/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/levi-lu/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/ted-sandler/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/post/neurips_2021/</loc>
+    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blondon.github.io/publication_types/2/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blondon.github.io/authors/adith-swaminathan/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blondon.github.io/authors/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/authors/ben-london/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blondon.github.io/authors/lequn-wang/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/publication_types/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/publication/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blondon.github.io/publication/joachims-aimag21/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blondon.github.io/authors/thorsten-joachims/</loc>
-    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blondon.github.io/authors/yi-su/</loc>
     <lastmod>2021-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/publication_types/9/</loc>
-    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blondon.github.io/publication/london-offlinerl20/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blondon.github.io/publication/london-spicyfl20/</loc>
     <lastmod>2020-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/post/neurips_2021/</loc>
-    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/post/</loc>
-    <lastmod>2020-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blondon.github.io/post/neurips_2020/</loc>
     <lastmod>2020-03-15T00:00:00+00:00</lastmod>
@@ -72,9 +96,6 @@
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blondon.github.io/authors/ofer-meshi/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/authors/ted-sandler/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blondon.github.io/publication/meshi-jmlr-19/</loc>

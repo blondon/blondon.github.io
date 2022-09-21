@@ -5,12 +5,36 @@
     <link>https://blondon.github.io/publication_types/9/</link>
       <atom:link href="https://blondon.github.io/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
     <description>9</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blondon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>9</title>
       <link>https://blondon.github.io/publication_types/9/</link>
     </image>
+    
+    <item>
+      <title>Control Variate Diagnostics for Detecting Problems in Logged Bandit Feedback</title>
+      <link>https://blondon.github.io/publication/london-reveal22/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/publication/london-reveal22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-Policy Evaluation for Learning-to-Rank via Interpolating the Item-Position Model and the Position-Based Model</title>
+      <link>https://blondon.github.io/publication/buchholz-consequences22/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/publication/buchholz-consequences22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosted Off-Policy Learning</title>
+      <link>https://blondon.github.io/publication/london-arxiv22/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/publication/london-arxiv22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Offline Policy Evaluation with New Arms</title>

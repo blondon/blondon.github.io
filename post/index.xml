@@ -5,7 +5,7 @@
     <link>https://blondon.github.io/post/</link>
       <atom:link href="https://blondon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blondon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,9 +13,20 @@
     </image>
     
     <item>
+      <title>Two new papers at CONSEQUENCES&#43;REVEAL 2022</title>
+      <link>https://blondon.github.io/post/consequences_reveal_22/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/post/consequences_reveal_22/</guid>
+      <description>&lt;p&gt;I will be sharing two new papers &amp;ndash; representing some of the work I&amp;rsquo;ve been doing for Amazon Music &amp;ndash; at the &lt;a href=&#34;https://sites.google.com/view/consequences2022&#34;&gt;CONSEQUENCES+REVEAL Workshop&lt;/a&gt;, which is part of the &lt;a href=&#34;https://recsys.acm.org/recsys22/&#34;&gt;RecSys 2022 conference&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The first paper, &amp;ldquo;&lt;a href=&#34;https://blondon.github.io/publication/london-reveal22/&#34;&gt;Control Variate Diagnostics for Detecting Problems in Logged Bandit Feedback&lt;/a&gt;,&amp;rdquo; deals with an important, practical problem in off-policy evaluation and learning that has not received much attention in the literature. When using logged bandit feedback (such as data from a recommender system) for offline evaluation, it is important that the data collection policy (a.k.a. &lt;em&gt;logging policy&lt;/em&gt; or &lt;em&gt;behavioral policy&lt;/em&gt;) is sufficiently randomized, and that the logs accurately reflect the &lt;em&gt;propensities&lt;/em&gt; (i.e., probabilities) of the selected actions. These conditions allow for unbiased evaluation of a new policy; when they fail, reward (i.e., utility) estimates may be biased. We therefore need diagnostics to test whether the conditions are met. Toward this goal, we propose diagnostics based on &lt;em&gt;control variates&lt;/em&gt; &amp;ndash; statistics with known expectations. Framed as a hypothesis test, we evaluate whether it is statistically plausible that the observed data come from a &amp;ldquo;good&amp;rdquo; data distribution. We analyze the diagnostics&amp;rsquo; false positive and false negative rates, and conduct experiments on synthetic data to empirically validate their effectiveness. I will be giving a talk for this paper on Thursday, 9/22.&lt;/p&gt;
+&lt;p&gt;The second paper, &amp;ldquo;&lt;a href=&#34;https://blondon.github.io/publication/buchholz-consequences22/&#34;&gt;Off-Policy Evaluation for Learning-to-Rank via Interpolating the Item-Position Model and the Position-Based Model&lt;/a&gt;,&amp;rdquo; deals with off-policy evaluation of ranking policies. When evaluating ranking policies, one must assume a model of user interaction. Two popular choices are the &lt;em&gt;position-based model&lt;/em&gt; (PBM) and the &lt;em&gt;item-position model&lt;/em&gt; (IPM). The PBM yields an estimator that typically has low variance, but requires a position bias curve that, when estimated inaccurately, can cause high bias. Meanwhile, the IPM estimator does not require a position bias curve and, under reasonable assumptions, is unbiased &amp;ndash; however, at the expense of larger variance. To get the &amp;ldquo;best of both worlds,&amp;rdquo; we propose a new estimator, INTERPOL, that interpolates between the two models. We show that this estimator is unbiased whenever the PBM assumptions hold, and our experiments on synthetic data corroborate that INTERPOL can achieve lower estimation error than either the PBM or IPM for a properly chosen interpolation parameter. My collaborator, Alexander Buchholz, will be giving a talk for this paper on Friday, 9/23.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>AC for NeurIPS 2021</title>
       <link>https://blondon.github.io/post/neurips_2021/</link>
-      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://blondon.github.io/post/neurips_2021/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m excited to announce that I will serve as an area chair for &lt;a href=&#34;https://neurips.cc/Conferences/2021&#34;&gt;NeurIPS 2021&lt;/a&gt;.&lt;/p&gt;
 </description>
