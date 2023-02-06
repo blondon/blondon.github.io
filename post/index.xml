@@ -5,12 +5,21 @@
     <link>https://blondon.github.io/post/</link>
       <atom:link href="https://blondon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blondon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://blondon.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New paper accepted at AISTATS 2023</title>
+      <link>https://blondon.github.io/post/bopl_aistats23/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/post/bopl_aistats23/</guid>
+      <description>&lt;p&gt;My recent paper on boosting for off-policy learning has been accepted at &lt;a href=&#34;https://aistats.org/aistats2023&#34;&gt;AI &amp;amp; Statistics (AISTATS) 2023&lt;/a&gt;. This work is a collaboration with Levi Lu (Amazon Music), Ted Sandler (Groundlight.ai) and Thorsten Joachims (Cornell / Amazon Music). Camera-ready coming soon.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Two new papers at CONSEQUENCES&#43;REVEAL 2022</title>
