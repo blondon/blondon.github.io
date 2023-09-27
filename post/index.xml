@@ -5,12 +5,45 @@
     <link>https://blondon.github.io/post/</link>
       <atom:link href="https://blondon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blondon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://blondon.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Four new papers at RecSys 2023 workshops</title>
+      <link>https://blondon.github.io/post/recsys_2023/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/post/recsys_2023/</guid>
+      <description>&lt;p&gt;I recently presented four new papers at the &lt;a href=&#34;https://recsys.acm.org/recsys23/&#34;&gt;RecSys 2023&lt;/a&gt; workshops. They represent a continuation of my work on recommendation as off-policy evaluation and learning with logged bandit feedback.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;B. London, A. Buchholz, G. Di Benedetto, J. M. Lichtenberg, Y. Stein &amp;amp; T. Joachims. &lt;a href=&#34;https://blondon.github.io/publication/london-consequences23/&#34;&gt;Self-Normalized Off-Policy Estimators for Ranking&lt;/a&gt;. &lt;a href=&#34;https://sites.google.com/view/consequences2023&#34;&gt;CONSEQUENCES Workshop, 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;J. M. Lichtenberg, A. Buchholz, G. Di Benedetto, M. Ruffini &amp;amp; B. London. &lt;a href=&#34;https://blondon.github.io/publication/lichtenberg-consequences23/&#34;&gt;Double Clipping: Less-Biased Variance Reduction in Off-Policy Evaluation&lt;/a&gt;. &lt;a href=&#34;https://sites.google.com/view/consequences2023&#34;&gt;CONSEQUENCES Workshop, 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;O. Jeunen &amp;amp; B. London. &lt;a href=&#34;https://blondon.github.io/publication/jeunen-consequences23/&#34;&gt;Offline Recommender System Evaluation under Unobserved Confounding&lt;/a&gt;. &lt;a href=&#34;https://sites.google.com/view/consequences2023&#34;&gt;CONSEQUENCES Workshop 2023&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;G. Di Benedetto, B. London, A. Buchholz, Y. Stein, V. Bellini, M. Jakimov, M. Ruffini &amp;amp; T. Joachims. &lt;a href=&#34;https://blondon.github.io/publication/dibenedetto-leri23/&#34;&gt;Contextual Position Bias Estimation using a Single Stochastic Logging Policy&lt;/a&gt;. &lt;a href=&#34;https://recsyspolimi.github.io/leri2023/&#34;&gt;LERI Workshop, 2023&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AC for ICLR 2024</title>
+      <link>https://blondon.github.io/post/iclr_2024/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/post/iclr_2024/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m excited to announce that I&amp;rsquo;ve been invited to be an area chair for &lt;a href=&#34;https://iclr.cc/&#34;&gt;ICLR 2024&lt;/a&gt;. This is my first experience with ICLR reviewing, and I&amp;rsquo;m looking forward to it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WebConf 2023 Tutorial on &#39;&#39;Practical Bandits&#39;&#39;</title>
+      <link>https://blondon.github.io/post/webconf23_tutorial/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/post/webconf23_tutorial/</guid>
+      <description>&lt;p&gt;I recently had the pleasure of collaborating with Bram van den Akker, Olivier Jeunen, Ying Li, Zahra Nazari and Devesh Parekh on a tutorial called &amp;lsquo;&amp;lsquo;Practical Bandits: An Industry Perspective,&amp;quot; which Bram and Olivier presented at &lt;a href=&#34;https://archives.iw3c2.org/www2023&#34;&gt;The Web Conference 2023&lt;/a&gt;. You can view the recording &lt;a href=&#34;https://youtu.be/lHva_kgRqq4&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New paper accepted at AISTATS 2023</title>

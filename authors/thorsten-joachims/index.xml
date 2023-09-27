@@ -5,12 +5,20 @@
     <link>https://blondon.github.io/authors/thorsten-joachims/</link>
       <atom:link href="https://blondon.github.io/authors/thorsten-joachims/index.xml" rel="self" type="application/rss+xml" />
     <description>Thorsten Joachims</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blondon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Thorsten Joachims</title>
       <link>https://blondon.github.io/authors/thorsten-joachims/</link>
     </image>
+    
+    <item>
+      <title>Self-Normalized Off-Policy Estimators for Ranking</title>
+      <link>https://blondon.github.io/publication/london-consequences23/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/publication/london-consequences23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Boosted Off-Policy Learning</title>

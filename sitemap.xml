@@ -2,16 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blondon.github.io/publication_types/1/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+    <loc>https://blondon.github.io/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/post/recsys_2023/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/post/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/publication_types/9/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/alexander-buchholz/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blondon.github.io/authors/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blondon.github.io/authors/ben-london/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blondon.github.io/</loc>
+    <loc>https://blondon.github.io/publication/dibenedetto-leri23/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/publication/lichtenberg-consequences23/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/giuseppe-di-benedetto/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/jan-malte-lichtenberg/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/matej-jakimov/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/matteo-ruffini/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/publication/jeunen-consequences23/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/olivier-jeunen/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/publication_types/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/publication/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/publication/london-consequences23/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/thorsten-joachims/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/vito-bellini/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/authors/yannik-stein/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/post/iclr_2024/</loc>
+    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/post/webconf23_tutorial/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blondon.github.io/publication_types/1/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blondon.github.io/publication/london-aistats23/</loc>
@@ -23,26 +83,8 @@
     <loc>https://blondon.github.io/post/bopl_aistats23/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blondon.github.io/post/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/publication_types/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/publication/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blondon.github.io/authors/ted-sandler/</loc>
     <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/authors/thorsten-joachims/</loc>
-    <lastmod>2023-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/publication_types/9/</loc>
-    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blondon.github.io/authors/alexander-buchholz/</loc>
-    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blondon.github.io/publication/london-reveal22/</loc>
     <lastmod>2022-09-21T00:00:00+00:00</lastmod>
