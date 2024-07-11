@@ -5,12 +5,29 @@
     <link>https://blondon.github.io/</link>
       <atom:link href="https://blondon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Ben London</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blondon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ben London</title>
       <link>https://blondon.github.io/</link>
     </image>
+    
+    <item>
+      <title>Counterfactual Ranking Evaluation with Flexible Click Models</title>
+      <link>https://blondon.github.io/publication/buchholz-sigir24/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/publication/buchholz-sigir24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGIR 2024</title>
+      <link>https://blondon.github.io/post/sigir_2024/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blondon.github.io/post/sigir_2024/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ll be presenting new work, &amp;ldquo;&lt;a href=&#34;https://blondon.github.io/publication/buchholz-sigir24&#34;&gt;Counterfactual Ranking Evaluation with Flexible Click Models&lt;/a&gt;,&amp;rdquo; at this year&amp;rsquo;s &lt;a href=&#34;https://sigir-2024.github.io/&#34;&gt;SIGIR&lt;/a&gt;. This is a collaboration with several colleagues at Amazon Music: Alexander Buchholz (lead author), Giuseppe Di Benedetto, Jan Malte Lichtenberg, Yannik Stein and Thorsten Joachims.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Industry Co-chair for RecSys 2024</title>
